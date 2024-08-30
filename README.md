@@ -1,4 +1,4 @@
-# Custom AutoHotKey script to add Multimedia functionality to keyboards with an extra Windows Key and no FN Key:"
+# AutoHotKey script to add Multimedia functionality to keyboards with an extra Windows Key in place of FN Key:
 
 ## Overview
 
