@@ -34,7 +34,7 @@ This AutoHotKey V2 script is designed for users with an extra Windows key on the
    - Clone this repository or download the `Multimedia-Key-Script.ahk` file from the [GitHub repository](https://github.com/sreasgop/AutoHotKey-Multimedia-Support).
 
 4. **Make the Script a Startup Program:**
-  - Copy the `Multimedia-Key-Script.ahk` file to Windows’s startup folder. You can type Win, R, then `shell:startup` to open an Explorer in Windows’s startup menu and paste the script file.
+   - Copy the `Multimedia-Key-Script.ahk` file to Windows’s startup folder. You can type Win, R, then `shell:startup` to open an Explorer in Windows’s startup menu and paste the script file.
 
 3. **Run the Script:**
    - Double-click on the `Multimedia-Key-Script.ahk` file to activate the script. AutoHotKey will run the script in the background, and the custom key bindings will be active.
